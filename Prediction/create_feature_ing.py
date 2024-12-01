@@ -9,7 +9,7 @@ import scipy.stats as stats
 import seaborn as sns
 
 
-def create_miodel_fatures():
+def create_model_fatures():
     """
     Crea un conjunto de características a partir del archivo raw 'smartgrid.csv',
     analiza outliers y guarda los datos preparados en un archivo CSV procesado.
