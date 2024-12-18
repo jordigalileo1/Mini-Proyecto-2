@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/924688578835200205/5ceabd468fdb4c29ae2def553e7de816/artifacts
+end_time: 1734498110499
+entry_point_name: ''
+experiment_id: '924688578835200205'
+lifecycle_stage: active
+run_id: 5ceabd468fdb4c29ae2def553e7de816
+run_name: carefree-goat-277
+run_uuid: 5ceabd468fdb4c29ae2def553e7de816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734498008526
+status: 3
+tags: []
+user_id: jordi

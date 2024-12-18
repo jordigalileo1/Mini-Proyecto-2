@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/924688578835200205/6fb9cca8b642474c803eaf21125fa1d7/artifacts
+end_time: 1734499571945
+entry_point_name: ''
+experiment_id: '924688578835200205'
+lifecycle_stage: active
+run_id: 6fb9cca8b642474c803eaf21125fa1d7
+run_name: unleashed-gnat-365
+run_uuid: 6fb9cca8b642474c803eaf21125fa1d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734499473503
+status: 3
+tags: []
+user_id: jordi

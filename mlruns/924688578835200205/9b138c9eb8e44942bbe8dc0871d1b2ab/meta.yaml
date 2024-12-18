@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/924688578835200205/9b138c9eb8e44942bbe8dc0871d1b2ab/artifacts
+end_time: 1734487933058
+entry_point_name: ''
+experiment_id: '924688578835200205'
+lifecycle_stage: active
+run_id: 9b138c9eb8e44942bbe8dc0871d1b2ab
+run_name: unruly-shad-202
+run_uuid: 9b138c9eb8e44942bbe8dc0871d1b2ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734487891426
+status: 3
+tags: []
+user_id: jordi

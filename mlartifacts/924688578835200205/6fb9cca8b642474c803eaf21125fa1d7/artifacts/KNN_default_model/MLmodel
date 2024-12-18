@@ -1,0 +1,20 @@
+artifact_path: KNN_default_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 2.19.0
+model_size_bytes: 6252615
+model_uuid: 0bc2bab73f28417f8f56dd5439a4e8de
+run_id: 6fb9cca8b642474c803eaf21125fa1d7
+utc_time_created: '2024-12-18 05:24:38.429463'

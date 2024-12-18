@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/924688578835200205/746bc09b68d24c13b73f63e29001d751/artifacts
+end_time: 1734496809180
+entry_point_name: ''
+experiment_id: '924688578835200205'
+lifecycle_stage: active
+run_id: 746bc09b68d24c13b73f63e29001d751
+run_name: crawling-zebra-251
+run_uuid: 746bc09b68d24c13b73f63e29001d751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734496705316
+status: 3
+tags: []
+user_id: jordi
